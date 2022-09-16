@@ -1,0 +1,11 @@
+C:\Users\Merve Bakır\source\repos\BlackKiteTask\BlackKiteTask\bin\Debug\netcoreapp2.1\BlackKiteTask.deps.json
+C:\Users\Merve Bakır\source\repos\BlackKiteTask\BlackKiteTask\bin\Debug\netcoreapp2.1\BlackKiteTask.runtimeconfig.json
+C:\Users\Merve Bakır\source\repos\BlackKiteTask\BlackKiteTask\bin\Debug\netcoreapp2.1\BlackKiteTask.runtimeconfig.dev.json
+C:\Users\Merve Bakır\source\repos\BlackKiteTask\BlackKiteTask\bin\Debug\netcoreapp2.1\BlackKiteTask.dll
+C:\Users\Merve Bakır\source\repos\BlackKiteTask\BlackKiteTask\obj\Debug\netcoreapp2.1\BlackKiteTask.csprojAssemblyReference.cache
+C:\Users\Merve Bakır\source\repos\BlackKiteTask\BlackKiteTask\obj\Debug\netcoreapp2.1\BlackKiteTask.csproj.CoreCompileInputs.cache
+C:\Users\Merve Bakır\source\repos\BlackKiteTask\BlackKiteTask\obj\Debug\netcoreapp2.1\BlackKiteTask.AssemblyInfoInputs.cache
+C:\Users\Merve Bakır\source\repos\BlackKiteTask\BlackKiteTask\obj\Debug\netcoreapp2.1\BlackKiteTask.AssemblyInfo.cs
+C:\Users\Merve Bakır\source\repos\BlackKiteTask\BlackKiteTask\bin\Debug\netcoreapp2.1\BlackKiteTask.pdb
+C:\Users\Merve Bakır\source\repos\BlackKiteTask\BlackKiteTask\obj\Debug\netcoreapp2.1\BlackKiteTask.dll
+C:\Users\Merve Bakır\source\repos\BlackKiteTask\BlackKiteTask\obj\Debug\netcoreapp2.1\BlackKiteTask.pdb
